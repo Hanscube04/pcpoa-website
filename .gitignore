@@ -1,0 +1,7 @@
+config/database.php
+config/.setup_complete
+uploads/logo/.htaccess
+uploads/products/.htaccess
+uploads/services/.htaccess
+uploads/videos/.htaccess
+*.log
